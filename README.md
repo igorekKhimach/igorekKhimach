@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @igorekKhimach
+- 👀 I’m interested in Java JS HTML CSS C# SQL
+- 🌱 I’m currently learning JAVA and SQL
+- 💞️ I’m looking to collaborate on Java developer
+- 📫 Reach me on facebook: https://www.facebook.com/Himasik
